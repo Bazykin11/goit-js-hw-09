@@ -35,7 +35,7 @@ const changeColor = {
 
   btnStop.addEventListener('click', () =>{
     changeColor.stopChangeColor();
-  })
+  });
 
 
 
