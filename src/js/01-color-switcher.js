@@ -1,6 +1,6 @@
 
-btnStart = document.querySelector('button[data-start]');
-btnStop = document.querySelector('button[data-stop]');
+btnStart = document.querySelector('[data-start]');
+btnStop = document.querySelector('[data-stop]');
 body = document.querySelector('body');
 
 // let timerId = null;
